@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a4f10970015f88077ba2cc5d166c62fe:d468f6fe31befa9cde11d36064f26c2c:a21377c6b88fb4d69c4313935a6d9dc7$
+#
+:format=40300
+:texture=Loading_atlas.png
+:size=128x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+huawen1_png;1;7;85;59; 0.5;0.5; 0;0;0;0; 7;85;18;85;11;26;0;17;0;0;37;0;59;32;59; 5;4;5;6;2;4;6;2;3;4;0;1;2;0;2;6
+huawen2_png;1;68;88;59; 0.5;0.5; 0;0;0;0; 7;88;41;68;0;0;0;0;18;41;50;67;59;88;59; 5;0;5;6;4;5;0;3;1;2;3;4;1;4;0;1
+loading.png;91;111;4;16; 0.5;0.5; 0;0;0;0; 4;4;0;0;0;0;16;4;16; 2;1;2;3;0;1;3

@@ -1,0 +1,23 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Dy/Sp/Pet.tpsheet
+- Assets/Resources/UI/Card.tpsheet
+- Assets/Resources/UI/Common.tpsheet
+- Assets/Resources/UI/Home.tpsheet
+- Assets/Resources/UI/Loading.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Dy/Sp/Pet_atlas.png
+- Assets/Resources/UI/Card_atlas.png
+- Assets/Resources/UI/Common_atlas.png
+- Assets/Resources/UI/Home_atlas.png
+- Assets/Resources/UI/Loading_atlas.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:1aa4a45b4b855fef76b6e4e913caf9fe:d8e83f10fa317c9a25acdc9262f9b5a1:a50bff0a6f923ba82afa128f5a149468$
+#
+:format=40300
+:texture=Common_atlas.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+02;1;82;60;74; 0.5;0.5; 0;0;0;0; 4;60;0;0;0;0;74;60;74; 2;1;2;3;0;1;3
+22;1;158;97;97; 0.5;0.5; 0;0;0;0; 8;97;72;97;25;72;0;25;0;0;25;0;72;25;97;72;97; 6;5;6;7;4;5;7;3;4;7;2;3;7;1;2;7;0;1;7

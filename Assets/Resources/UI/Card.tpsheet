@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ee4fd481a28bdeb1aa686f1fe22bfaf6:70f6575c32bf43938027fad65b687772:c0fb889787f96952f64db526dade4e25$
+#
+:format=40300
+:texture=Card_atlas.png
+:size=256x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+n1;1;1669;248;378; 0.5;0.5; 0;0;0;0; 4;248;0;0;0;0;378;248;378; 2;1;2;3;0;1;3
+n2;1;1289;248;378; 0.5;0.5; 0;0;0;0; 4;248;0;0;0;0;378;248;378; 2;1;2;3;0;1;3
+n3;1;909;248;378; 0.5;0.5; 0;0;0;0; 4;248;0;0;0;0;378;248;378; 2;1;2;3;0;1;3
+n4;1;529;248;378; 0.5;0.5; 0;0;0;0; 4;248;0;0;0;0;378;248;378; 2;1;2;3;0;1;3
+n5;1;149;248;378; 0.5;0.5; 0;0;0;0; 4;248;0;0;0;0;378;248;378; 2;1;2;3;0;1;3
